@@ -7,7 +7,7 @@ mi sitio web
         <title>Mi sitio Web</title>
     </head>
     <body>
-        Esta es la versión inicial de mi sitio web, { nombre del alumno }
+        Esta es la versión inicial de mi sitio web, {german}
     </body>
 </html>
 
